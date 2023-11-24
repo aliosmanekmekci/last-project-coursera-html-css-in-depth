@@ -2,6 +2,8 @@
 
 This repository contains the HTML and CSS code for the Lucky Shrub website.
 
+This site is the portfolio project of the last part of the Front-end Development course Html&CSS in Depth from Coursera.
+
 # View the Website
 
  https://aliosmanekmekci.github.io/lucky-shrub-garden-design/
