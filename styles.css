@@ -1,8 +1,9 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #fff;
+  background-color: #f5f5dc;
+  color: #333;
 }
 header,
 footer {
@@ -14,12 +15,12 @@ footer {
 .logo {
   margin: 0 auto;
   display: block;
-  height: 200px;
-  width: 125px;
+  height: 100px;
+  width: 62.5px;
 }
 .small-logo {
-  height: 80px;
-  width: 50px;
+  height: 40px;
+  width: 25px;
   margin-right: auto;
 }
 footer {
@@ -36,6 +37,10 @@ main {
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 20px;
+}
+.description {
+  font-size: 1.2em;
+  text-align: justify;
 }
 section {
   flex: 1 1 200px;
