@@ -38,6 +38,11 @@ main {
   justify-content: space-around;
   padding: 20px;
 }
+
+article h2 {
+  text-align: center;
+}
+
 .description {
   font-size: 1.2em;
   text-align: justify;
