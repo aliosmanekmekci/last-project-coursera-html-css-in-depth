@@ -2,6 +2,10 @@
 
 This repository contains the HTML and CSS code for the Lucky Shrub website.
 
+# View the Website
+
+ https://aliosmanekmekci.github.io/lucky-shrub-garden-design/
+
 ## About
 
 Lucky Shrub is a mid-sized garden design firm based in Tucson, Arizona. The website provides information about our services, allows customers to make appointments, and displays our opening hours.
